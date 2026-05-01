@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./inx-logo.png" alt="InheritX Solutions Logo" width="220"/>
+  <img src="./inheritx.jpeg" alt="InheritX Solutions Logo" width="220"/>
 </p>
 
 <h3 align="center">Building Scalable Digital Products with AI, Cloud & Mobility</h3>
